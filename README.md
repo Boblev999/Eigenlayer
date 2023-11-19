@@ -1,1 +1,1 @@
-# -Eigenlayer
+# Eigenlayer
